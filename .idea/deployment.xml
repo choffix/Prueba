@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="On explicit save action (Ctrl+S)" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" autoUpload="On explicit save action (Ctrl+S)" uploadOnCheckin="f060b6c8-6fd0-4d96-8e27-6b6c4f067de7" autoUploadExternalChanges="true">
+    <option name="myUploadOnCheckinName" value="renymarin/Prueba2" />
     <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
   </component>
 </project>
