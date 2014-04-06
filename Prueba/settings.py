@@ -13,7 +13,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 #la de os.path manda a la direccion Pruebas/Prueba/template que no corresponde
 
-TEMPLATE_DIRS = '/home/renato/PycharmProjects/Prueba/templates',
+TEMPLATE_DIRS = '/home/choffis/PycharmProjects/Prueba/templates',
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.6/howto/deployment/checklist/
